@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 
 
 🏫 Semyung University 🎓
+
+
 👉 이력서 페이지: 👈
+
+
 📚나의 관심 언어는 C++입니다.🧐
+
+
 🤙전화번호: 010-2704-6640📞
+
+
 <a href="https://www.instagram.com/the_strange_concoction/">
   <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
