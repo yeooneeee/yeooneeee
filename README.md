@@ -20,13 +20,20 @@ Here are some ideas to get you started:
 
 👉 이력서 페이지: https://yeooneeee.github.io/resume-template-gh-pages/👈
 
+
+
 📚나의 관심 언어는 C++입니다.🧐
 
 🤙전화번호: 010-2704-6640📞
 
 <a href="https://www.instagram.com/the_strange_concoction/">
   <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>인스타
+</a>
+<a href="https://github.com/yeooneeee">
+  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+
 
 📚**Languages and Tools:**  📑
 
@@ -47,5 +54,7 @@ Here are some ideas to get you started:
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeooneeee&repo=MovieList&theme=highcontrast "MovieList")](https://github.com/yeooneeee/MovieList)
+
+
 
 
