@@ -15,23 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 🏫 Semyung University 🎓
 
 👉 이력서 페이지: https://yeooneeee.github.io/resume-template-gh-pages/👈
-
 
 
 📚나의 관심 언어는 C++입니다.🧐
 
 🤙전화번호: 010-2704-6640📞
 
-<a href="https://www.instagram.com/the_strange_concoction/">
-  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://github.com/yeooneeee">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 
 
 
@@ -55,6 +47,16 @@ Here are some ideas to get you started:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeooneeee&repo=MovieList&theme=highcontrast "MovieList")](https://github.com/yeooneeee/MovieList)
 
+
+<br />
+
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br />
+
+<a href="https://github.com/yeooneeee">
+  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 
 
