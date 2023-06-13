@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 
 
-
-📚**Languages and Tools:**  📑
+### 📚**Languages and Tools:**  📑
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -50,7 +49,7 @@ Here are some ideas to get you started:
 
 <br />
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yeooneeee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
