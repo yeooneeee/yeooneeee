@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/ashwanisng">
+<a href="https://github.com/yeooneeee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
 </a>
 
@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 
 <br />
 
+### 🩷💜❤️💙💖🧡💚💗🖤
 
-## 💖
 <a href="https://github.com/yeooneeee">
   <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
