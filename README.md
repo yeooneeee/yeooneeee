@@ -1,4 +1,4 @@
-### Hi im yeo12g! 👋
+## Hi im yeo12g! 👋
 
 <!--
 **yeooneeee/yeooneeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 🤙전화번호: 010-2704-6640📞
 
+<br />
+
 
 
 ### 📚**Languages and Tools:**  📑
@@ -44,18 +46,32 @@ Here are some ideas to get you started:
 
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeooneeee&repo=MovieList&theme=highcontrast "MovieList")](https://github.com/yeooneeee/MovieList)
+
+
+
+<a href="https://github.com/ashwanisng">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
+</a>
 
 
 <br />
+
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeooneeee&repo=MovieList&theme=highcontrast "MovieList")](https://github.com/yeooneeee/MovieList)
+
+
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yeooneeee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
+
+## 💖
 <a href="https://github.com/yeooneeee">
   <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 
 
 
