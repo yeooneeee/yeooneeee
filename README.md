@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🏫 Semyung University 🎓
 
-👉 이력서 페이지: https://yeooneeee.github.io/resume-template-gh-pages/👈
+👉 이력서 페이지: https://yeooneeee.github.io/Web-Portfolio.github.io/👈
 
 
 📚나의 관심 언어는 C++입니다.🧐
