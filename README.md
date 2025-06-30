@@ -1,88 +1,50 @@
-## Hi im yeo12g! 👋
+## Hi, I'm yeo12g! 👋
+
+### 👩‍💻 About Me
+
+- 🏫 Semyung University 졸업(예정)
+- 🌱 끊임없이 성장하고 도전하는 개발자를 꿈꿉니다!
+- 💻 관심 기술: C++, Python, Web Backend, 데이터베이스 설계
+- 🔥 실전 프로젝트에서 다양한 개발 경험과 문제 해결력을 쌓아가고 있습니다.
+- 📝 [이력서/포트폴리오 바로가기](https://yeooneeee.github.io/Web-Portfolio.github.io/)
+- 📚 관심 언어: C++
+- ☎️ 연락처: 010-2704-6640
+
+---
+
+### 💡 Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 🏆 Github Stats
+
+![yeooneeee's github stats](https://github-readme-stats.vercel.app/api?username=yeooneeee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeooneeee&layout=compact&theme=radical)
+
+---
+
+### 🌟 Main Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeooneeee&repo=art-therapy-backend&theme=radical)](https://github.com/yeooneeee/art-therapy-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeooneeee&repo=Groupware&theme=radical)](https://github.com/yeooneeee/Groupware)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeooneeee&repo=Web-Portfolio.github.io&theme=radical)](https://github.com/yeooneeee/Web-Portfolio.github.io)
+
+---
 
 <!--
 **yeooneeee/yeooneeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-🏫 Semyung University 🎓
-
-👉 이력서 페이지: https://yeooneeee.github.io/Web-Portfolio.github.io/👈
-
-
-📚나의 관심 언어는 C++입니다.🧐
-
-🤙전화번호: 010-2704-6640📞
-
-<br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 📚**Languages and Tools:**  📑
-
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-
-
-
-
-<a href="https://github.com/yeooneeee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
-</a>
-
-
-<br />
-
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeooneeee&repo=MovieList&theme=highcontrast "MovieList")](https://github.com/yeooneeee/MovieList)
-
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yeooneeee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br />
-
-### 🩷💜❤️💙💖🧡💚💗🖤
-
-<a href="https://github.com/yeooneeee">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-
-
-
+<!-- 아이콘/이모지는 분위기에 맞게 한 줄로! -->
+🩷💜❤️💙💖🧡💚💗🖤
