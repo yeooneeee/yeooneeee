@@ -4,7 +4,7 @@
 
 - 🏫 Semyung University 졸업(예정)
 - 🌱 끊임없이 성장하고 도전하는 개발자를 꿈꿉니다!
-- 💻 관심 기술: C++, Python, Web Backend, 데이터베이스 설계
+- 💻 관심 기술: C++, Web Backend, 데이터베이스 설계
 - 🔥 실전 프로젝트에서 다양한 개발 경험과 문제 해결력을 쌓아가고 있습니다.
 - 📝 [이력서/포트폴리오 바로가기](https://yeooneeee.github.io/Web-Portfolio.github.io/)
 - 📚 관심 언어: C++
