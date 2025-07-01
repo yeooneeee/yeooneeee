@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 ## Hi, I'm yeo12g! 👋
 
 ### 👩‍💻 About Me
@@ -12,6 +14,14 @@
 
 ---
 
+### 🌟 Main Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hanyang-art-therapy&repo=backend&theme=radical)](https://github.com/hanyang-art-therapy/backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SYoffice&repo=SYoffice&theme=radical)](https://github.com/SYoffice/SYoffice)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=power8993&repo=MovieProject&theme=radical)](https://github.com/power8993/MovieProject)
+
+
+---
 ### 💡 Tech Stack & Tools
 
 <p>
@@ -26,16 +36,7 @@
 </p>
 
 ----
-
-### 🌟 Main Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hanyang-art-therapy&repo=backend&theme=radical)](https://github.com/hanyang-art-therapy/backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SYoffice&repo=SYoffice&theme=radical)](https://github.com/SYoffice/SYoffice)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=power8993&repo=MovieProject&theme=radical)](https://github.com/power8993/MovieProject)
-
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 <!--
 **yeooneeee/yeooneeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
