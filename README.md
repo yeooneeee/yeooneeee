@@ -28,16 +28,26 @@
 ---
 ### 💡 Tech Stack & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<p align="left">
+  <img src="assets/img/skill-logo/java.png" alt="Java" width="40" height="40"/>
+  <img src="assets/img/skill-logo/springboot.png" alt="Spring Boot" width="40" height="40"/>
+  <img src="assets/img/skill-logo/JavaScript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="assets/img/skill-logo/html.png" alt="HTML" width="40" height="40"/>
+  <img src="assets/img/skill-logo/css.png" alt="CSS" width="40" height="40"/>
+  <img src="assets/img/skill-logo/ajax.png" alt="Ajax" width="40" height="40"/>
+  <img src="assets/img/skill-logo/orcale.png" alt="Oracle" width="40" height="40"/>
+  <img src="assets/img/skill-logo/mysql.png" alt="MySQL" width="40" height="40"/>
+  <img src="assets/img/skill-logo/MyBatis.png" alt="MyBatis" width="40" height="40"/>
+  <img src="assets/img/skill-logo/api.png" alt="API" width="40" height="40"/>
+  <img src="assets/img/skill-logo/aws.png" alt="AWS" width="40" height="40"/>
+  <img src="assets/img/skill-logo/git.png" alt="Git" width="40" height="40"/>
+  <img src="assets/img/skill-logo/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="assets/img/skill-logo/docker.png" alt="Docker" width="40" height="40"/>
+  <img src="assets/img/skill-logo/Figma.png" alt="Figma" width="40" height="40"/>
+  <img src="assets/img/skill-logo/Notion.png" alt="Notion" width="40" height="40"/>
+  <img src="assets/img/skill-logo/slack.png" alt="Slack" width="40" height="40"/>
 </p>
+
 
 ----
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" width="100%"/>
