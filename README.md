@@ -7,7 +7,7 @@
 - 💻 관심 기술: C++, Web Backend, 데이터베이스 설계
 - 🔥 실전 프로젝트에서 다양한 개발 경험과 문제 해결력을 쌓아가고 있습니다.
 - 📝 [이력서/포트폴리오 바로가기](https://yeooneeee.github.io/Web-Portfolio.github.io/)
-- 📚 관심 언어: C++
+- 📨 이메일: dudnjs0514@naver.com
 - ☎️ 연락처: 010-2704-6640
 
 ---
@@ -40,5 +40,3 @@
 **yeooneeee/yeooneeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- 아이콘/이모지는 분위기에 맞게 한 줄로! -->
-🩷💜❤️💙💖🧡💚💗🖤
