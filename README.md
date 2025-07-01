@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" width="100%"/>
 
 ## Hi, I'm yeo12g! 👋  [이력서/포트폴리오 바로가기](https://yeooneeee.github.io/Web-Portfolio.github.io/)
 
@@ -35,7 +35,7 @@
 </p>
 
 ----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" width="100%"/>
 <!--
 **yeooneeee/yeooneeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
